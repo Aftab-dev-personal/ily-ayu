@@ -1,0 +1,29 @@
+{
+  "name": "ily-ayu",
+  "version": "16.11.24",
+  "description": "A CLI love letter that whispers my heart's words",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo 'And while I may not possess the power to pluck the moon from the night sky for you, I can certainly hold up a mirror that reflects your radiant brilliance—reminding you of the extraordinary light you bring into my life with every passing day.❤‍🩹🫶🏻'"
+  },
+  "bin": {
+    "ily-ayu": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aftab-dev-personal/ily-ayu.git"
+  },
+  "keywords": [
+    "love",
+    "personal",
+    "personal-message",
+    "gift"
+  ],
+  "author": "Aftab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aftab-dev-personal/ily-ayu/issues"
+  },
+  "homepage": "https://github.com/Aftab-dev-personal/ily-ayu#readme"
+}
